@@ -32,6 +32,7 @@
 ###### 4）​启动双开​
 
 手动打开第一个微信（原应用），在终端执行，启动第二个：
+
 `nohup /Applications/WeChat2.app/Contents/MacOS/WeChat >/dev/null 2>&1 & `
 
 ###### 5）常驻程序坞
