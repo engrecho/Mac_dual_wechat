@@ -23,6 +23,7 @@
 下载后将名称改成AppIcon.icns, 进入应用程序，找到Wechat2的应用，点击右键，然后选择“显示包内容”，进入 contents/resources，删除原有的AppIcon.icns，粘贴你的图标
 
 给几个参考案例：
+
 https://macosicons.com/#/chat
 
 https://macosicons.com/#/message
