@@ -26,6 +26,7 @@
 
 https://macosicons.com/#/chat ， https://macosicons.com/#/message ， https://macosicons.com/#/微信
 
+更多关于更换APP图标，参考https://www.ifanr.com/app/1379030
 
 
 ###### 2）修改BundleID
