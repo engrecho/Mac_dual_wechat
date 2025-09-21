@@ -25,11 +25,11 @@
 
 给几个参考案例（更多关于更换APP图标，参考https://www.ifanr.com/app/1379030）：
 
-https://macosicons.com/#/chat,
-https://macosicons.com/#/wechat,
-https://macosicons.com/#/message, 
-https://macosicons.com/#/微信
-
+- https://macosicons.com/#/chat,
+- https://macosicons.com/#/wechat,
+- https://macosicons.com/#/message, 
+- https://macosicons.com/#/微信
+- [我的选择,可以尝试下]([https://markdown.com.cn](https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/10809935e3624d1183fa5bcb89c94345_ChatWise.icns))
 
 #### 2）修改BundleID
 
